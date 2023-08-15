@@ -5,7 +5,7 @@ Vestipay is a web3 payment API for businesses. Precedent helps businesses start 
 
 To get started, simply visit [Vestipay's deployment page]() and follow the instructions.
 
-## Usage
+## Features
 
 ### Automate Withdrawals
 Vestipay helps businesses take control of their finances with seamless automated withdrawals. Our API allows businesses to set up automated withdrawals and securely move funds.
